@@ -1,12 +1,8 @@
 <div align="center">
 
-```
-    ____  ___    ______  ____    __    ____  ____ 
-   / __ \/   |  / __ \ \/ / /   / /   / __ \/ __ \
-  / / / / /| | / /_/ /\  / /   / /   / / / / / / /
- / /_/ / ___ |/ _, _/ / / /___/ /___/ /_/ / /_/ / 
-/_____/_/  |_/_/ |_| /_/_____/_____/_____/_____/  
-```
+<img src="ddddd.jpg" width="150" style="border-radius: 50%;" />
+
+# Darylld Tupaz
 
 ### software engineer · builder · lifelong tinkerer
 
@@ -15,33 +11,32 @@
 <br>
 
 ```
-               `    '.                    Darylldd@github
-                -   '  .     .           ─────────────────────
-      ,          '    ,.     :     .     OS: ..................... Windows 11, Linux
-  `   '=  ` ,;.:  -+ ` -':. `,''' '      Uptime: ................. 4 years coding
-        -+   =:=''-'=-=: .' :': * .. '   Host: ................... Your Company / Freelance
-'   :`'  ;'='; ;+j. -,j*   ;:.  `..   .= 
-     '-* : *+;'':=+'`''--k'`+j,' , :','  Languages.Programming: .. Python, JavaScript, PHP
-' '   .'=- .,+-*,*k#%:k:%k+;':kjj ':j.   Languages.Web: ........... HTML, CSS, TypeScript
-, ``k':'-j=+'j#*jj'*#*#=+k++`--,='  ' ;  Tools: ................... Git
-,  -.+'`'k%-#=*##j%-***--+*k%;=;kkk;  ::
-` , ;-++-++#%*+k+####j%j*%j****#;jkk.' , Hobbies: ................. Open source, gaming, physical activities
-;;';k -k%;+k=@%@***#@%%##@+#-*%-''''**.: Interests: ............... AI, systems, AI, Doomscrolling
-;.,k:';**##:*+%##%+*@#%k%*j*##**#%%,kk+j
-   -;+jkj:*%*%###%@###@#%*++k%j#*%k+=.:: ─────────────────────
-'+-;-,**j:*%*#+%#@#@@##%@@#**%%*k`*%=*-- Contact
- +;;=-j%*=--@k@@@k##%#@@#@%@;+%%jjk+j''  Email: .................. tupazdarylld@gmail.com
- ,:*+:-jk#k=%j#%%@k%%@#@*#%@%%**'j-'k+,= LinkedIn: ................ /in/darylldtupaz
-.:; j#k:==**j%*j*@#**+%@k%+#*@j+k-+*. -= Discord: ................. 0of._.
--=j-::-%#+j+k%j**k@##*:*%#*%*%*%*-'',;
-.,:--',:;%k:#+@%*'k%#%#k%+*-j:=--, -k+;
-' ,'**-`,j#*%-%+#+**%*j#*-%j:+':;*-;: +=
-'`,  -;=;.+++jk+;%**.*%j:==++''-:'*; , '
-.' ' .'',` k++'k:*kk++.=kk'-=-`= ' ':`
-   ,  ':;*=;-,*j`'j`:=,--.jk: ',=;   = `
-    :., ; -= '';j. '.:*`:,`. ;''     . .
-  `  `'    -.','`,,- '':-.' ' `  :.
+Darylldd@github
+─────────────────────
+OS: ..................... Windows 11, Linux
+Uptime: ................. 4 years coding
+Host: ................... Your Company / Freelance
+
+Languages.Programming: .. Python, JavaScript, PHP
+Languages.Web: ........... HTML, CSS, TypeScript
+Tools: ................... Git
+
+Hobbies: ................. Open source, gaming, physical activities
+Interests: ............... AI, systems, Doomscrolling
+─────────────────────
+Contact
+Email: .................. tupazdarylld@gmail.com
+LinkedIn: ................ /in/darylldtupaz
+Discord: ................. 0of._.
 ```
+
+<br>
+
+<div align="center">
+
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Darylldd)
+
+</div>
 
 <br>
 
@@ -51,6 +46,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darylldd&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darylldd&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Darylldd&theme=dark&hide_border=true)
 
 </div>
 
@@ -83,6 +80,6 @@
 
 <div align="center">
 
-<sub>⚡ Fetched via terminal, styled by hand(more or less) — thanks for stopping by.</sub>
+<sub>⚡ Fetched via terminal, styled by hand (more or less) — thanks for stopping by.</sub>
 
 </div>
