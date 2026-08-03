@@ -1,4 +1,7 @@
 {
+  "image": "https://avatars.githubusercontent.com/u/161782745?v=4",
+  "removeBackground": true,
+  "imageScale": 1,
   "sections": [
     {
       "title": "{{username}}@github",
@@ -8,7 +11,7 @@
         { "key": "Host", "value": "Freelance" },
         { "key": "Languages.Programming", "value": "Python, JavaScript, PHP" },
         { "key": "Languages.Web", "value": "HTML, CSS, TypeScript" },
-        { "key": "Tool/s", "value": "Git" },
+        { "key": "Tools", "value": "Git" },
         { "key": "Hobbies", "value": "Open source, gaming, physical activities" },
         { "key": "Interests", "value": "AI, systems, Doomscrolling" }
       ]
