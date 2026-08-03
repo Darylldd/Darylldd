@@ -17,5 +17,5 @@ Discord: ................. 0of._.
 ```
 <br>
 <div align="center">
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Darylldd)
+  <img src="https://neofetch-profile.vercel.app/api?username=Darylldd" alt="Neofetch Stats">
 </div>
