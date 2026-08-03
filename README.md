@@ -1,3 +1,4 @@
+```
 Darylldd@github
 ─────────────────────
 OS: ..................... Windows 11
@@ -13,7 +14,7 @@ Contact
 Email: .................. tupazdarylld@gmail.com
 LinkedIn: ................ /in/darylldtupaz
 Discord: ................. 0of._.
-
+```
 
 <div align="center">
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Darylldd)
