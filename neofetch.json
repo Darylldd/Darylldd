@@ -1,6 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/Darylldd/Darylldd/main/meee.png",
-  "removeBackground": true,
+  "removeBackground": false,
   "imageScale": 1,
   "sections": [
     {
