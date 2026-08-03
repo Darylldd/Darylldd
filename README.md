@@ -1,21 +1,47 @@
-```
+<table>
+<tr>
+<td valign="top">
+
+```text
 Darylldd@github
 ─────────────────────
-OS: ..................... Windows 11
-Uptime: ................. 4 years coding
-Host: ................... Freelance
-Languages.Programming: .. Python, JavaScript, PHP
-Languages.Web: ........... HTML, CSS, TypeScript
-Tools: ................... Git
-Hobbies: ................. Open source, gaming, physical activities
-Interests: ............... AI, systems, Doomscrolling
+OS: Windows 11
+Uptime: 4 years coding
+Host: Freelance
+
+Languages:
+• Python
+• JavaScript
+• PHP
+• HTML
+• CSS
+• TypeScript
+
+Tools:
+• Git
+
+Hobbies:
+• Open source
+• Gaming
+• Physical activities
+
+Interests:
+• AI
+• Systems
+• Doomscrolling
+
 ─────────────────────
-Contact
-Email: .................. tupazdarylld@gmail.com
-LinkedIn: ................ /in/darylldtupaz
-Discord: ................. 0of._.
+Email:      tupazdarylld@gmail.com
+LinkedIn:   /in/darylldtupaz
+Discord:    0of._.
 ```
-<br>
-<div align="center">
-  <img src="https://neofetch-profile.vercel.app/api?username=Darylldd" alt="Neofetch Stats">
-</div>
+
+</td>
+
+<td>
+
+<img src="https://neofetch-profile.vercel.app/api?username=Darylldd" alt="Neofetch Stats">
+
+</td>
+</tr>
+</table>
