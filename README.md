@@ -15,7 +15,7 @@ Email: .................. tupazdarylld@gmail.com
 LinkedIn: ................ /in/darylldtupaz
 Discord: ................. 0of._.
 ```
-
+<br>
 <div align="center">
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Darylldd)
 </div>
