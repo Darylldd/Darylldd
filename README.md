@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="ddddd.jpg" width="150" style="border-radius: 50%;" />
+
 
 # Darylld Tupaz
 
-### software engineer · builder · lifelong tinkerer
+### software developer · IT · lifelong yearner
 
 </div>
 
@@ -13,9 +13,9 @@
 ```
 Darylldd@github
 ─────────────────────
-OS: ..................... Windows 11, Linux
+OS: ..................... Windows 11
 Uptime: ................. 4 years coding
-Host: ................... Your Company / Freelance
+Host: ................... Freelance
 
 Languages.Programming: .. Python, JavaScript, PHP
 Languages.Web: ........... HTML, CSS, TypeScript
