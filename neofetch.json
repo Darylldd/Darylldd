@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "Windows 11" },
+        { "key": "Uptime", "value": "3-4 years coding" },
+        { "key": "Host", "value": "Freelance" },
+        { "key": "Languages.Programming", "value": "Python, JavaScript, PHP" },
+        { "key": "Languages.Web", "value": "HTML, CSS, TypeScript" },
+        { "key": "Tool/s", "value": "Git" },
+        { "key": "Hobbies", "value": "Open source, gaming, physical activities" },
+        { "key": "Interests", "value": "AI, systems, Doomscrolling" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "tupazdarylld@gmail.com" },
+        { "key": "LinkedIn", "value": "/in/darylldtupaz" },
+        { "key": "Discord", "value": "0of._." }
+      ]
+    }
+  ],
+  "stats": {
+    "enabled": false
+  }
+}
