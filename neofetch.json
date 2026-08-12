@@ -2,6 +2,7 @@
   "image": "https://avatars.githubusercontent.com/u/161782745?v=4&size=64",
   "removeBackground": true,
   "imageScale": 1,
+
   "sections": [
     {
       "title": "{{username}}@github",
@@ -16,6 +17,31 @@
         { "key": "Interests", "value": "AI, systems, Doomscrolling" }
       ]
     },
+
+    {
+      "title": "- GitHub",
+      "fields": [
+        { "key": "Repos", "value": "{{repos}}" },
+        { "key": "Stars", "value": "{{stars}}" },
+        { "key": "Forks", "value": "{{forks}}" },
+        { "key": "Followers", "value": "{{followers}}" },
+        { "key": "Following", "value": "{{following}}" },
+        { "key": "Commits", "value": "{{commits}}" },
+        { "key": "PRs", "value": "{{prs}}" },
+        { "key": "Issues", "value": "{{issues}}" },
+        { "key": "Gists", "value": "{{gists}}" }
+      ]
+    },
+
+    {
+      "title": "- Activity",
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Account", "value": "{{created}}" },
+        { "key": "Age", "value": "{{uptime}}" }
+      ]
+    },
+
     {
       "title": "- Contact",
       "fields": [
@@ -25,7 +51,28 @@
       ]
     }
   ],
+
   "stats": {
-    "enabled": false
+    "enabled": true,
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      },
+      {
+        "left": { "key": "Forks", "value": "{{forks}}" },
+        "right": { "key": "PRs", "value": "{{prs}}" }
+      },
+      {
+        "left": { "key": "Issues", "value": "{{issues}}" },
+        "right": { "key": "Following", "value": "{{following}}" }
+      },
+      "loc"
+    ]
   }
 }
