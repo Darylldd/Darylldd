@@ -8,13 +8,11 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "OS", "value": "Windows 11" },
-        { "key": "Uptime", "value": "3-4 years coding" },
+        { "key": "Uptime", "value": "2-4 years coding" },
         { "key": "Host", "value": "Freelance" },
-        { "key": "Languages.Programming", "value": "Python, JavaScript, PHP" },
-        { "key": "Languages.Web", "value": "HTML, CSS, TypeScript" },
         { "key": "Tools", "value": "Git" },
         { "key": "Hobbies", "value": "Open source, gaming, physical activities" },
-        { "key": "Interests", "value": "AI, systems, Doomscrolling" }
+        { "key": "Interests", "value": "AI, systems, Others" }
       ]
     },
 
@@ -24,12 +22,7 @@
         { "key": "Repos", "value": "{{repos}}" },
         { "key": "Stars", "value": "{{stars}}" },
         { "key": "Forks", "value": "{{forks}}" },
-        { "key": "Followers", "value": "{{followers}}" },
-        { "key": "Following", "value": "{{following}}" },
-        { "key": "Commits", "value": "{{commits}}" },
-        { "key": "PRs", "value": "{{prs}}" },
-        { "key": "Issues", "value": "{{issues}}" },
-        { "key": "Gists", "value": "{{gists}}" }
+        { "key": "Commits", "value": "{{commits}}" }
       ]
     },
 
