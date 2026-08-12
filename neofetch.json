@@ -52,27 +52,50 @@
     }
   ],
 
-  "stats": {
-    "enabled": true,
-    "title": "- GitHub Stats",
-    "rows": [
-      {
-        "left": { "key": "Repos", "value": "{{repos}}" },
-        "right": { "key": "Stars", "value": "{{stars}}" }
+"stats": {
+  "title": "- GitHub Stats",
+  "rows": [
+    {
+      "left": {
+        "key": "Repos",
+        "value": "{{repos}}"
       },
-      {
-        "left": { "key": "Commits", "value": "{{commits}}" },
-        "right": { "key": "Followers", "value": "{{followers}}" }
+      "right": {
+        "key": "Stars",
+        "value": "{{stars}}"
+      }
+    },
+    {
+      "left": {
+        "key": "Commits",
+        "value": "{{commits}}"
       },
-      {
-        "left": { "key": "Forks", "value": "{{forks}}" },
-        "right": { "key": "PRs", "value": "{{prs}}" }
+      "right": {
+        "key": "Followers",
+        "value": "{{followers}}"
+      }
+    },
+    {
+      "left": {
+        "key": "Forks",
+        "value": "{{forks}}"
       },
-      {
-        "left": { "key": "Issues", "value": "{{issues}}" },
-        "right": { "key": "Following", "value": "{{following}}" }
+      "right": {
+        "key": "PRs",
+        "value": "{{prs}}"
+      }
+    },
+    {
+      "left": {
+        "key": "Issues",
+        "value": "{{issues}}"
       },
-      "loc"
-    ]
-  }
+      "right": {
+        "key": "Following",
+        "value": "{{following}}"
+      }
+    },
+    "loc"
+  ]
+}
 }
